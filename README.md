@@ -1,5 +1,6 @@
 # 3L_MLP-w-Reservoir
-3 Layer MLP NN attached to a reservoir
+3 Layer MLP NN attached to a reservoir.
+
 To try, just run the python script. The weight matrices and input vector will be assigned random numbers.
 
 The NN class is called from the commands at the bottom of the program:
